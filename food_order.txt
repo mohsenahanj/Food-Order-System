@@ -1,0 +1,12 @@
+Order Summary
+        Membership Code: 56
+        Name: name
+        Phone: 12345678901
+        Address: 32 dijon france
+        Zip Code: 20001
+        Order Time: 2025-02-20 23:39
+        Order Items:
+        Pizza (1) + Coke x1
+Burger (2) + Coffee x1
+        Order Description: This order includes a variety of food items and drinks. Please ensure you have collected all items.
+        Map Link: https://www.google.com/maps/search/?api=1&query=32 juile dijon france,+20001
