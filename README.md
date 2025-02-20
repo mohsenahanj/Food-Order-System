@@ -47,6 +47,9 @@
 - **The application will validate your inputs, save the order details to a .txt file on your desktop, and display a success message.**
 - **You can also click the "Select Location on Map" button to open the delivery address in Google Maps.**
 
+
+![Screenshot 2025-02-21 025730](https://github.com/user-attachments/assets/d0b4bfab-bf9c-4260-b3a3-f66ba3189085)
+
 ---
 
 ## Folder Structure
