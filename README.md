@@ -32,20 +32,20 @@
 
 ## Usage
 
-- **After running the application, the main window will appear.
-- **Fill in the required fields:
-- **Membership Code: Enter your membership code (optional).
-- **Customer Name: Enter your full name.
-- **Phone Number: Enter an 11-digit phone number.
-- **Address: Enter your delivery address.
-- **Zip Code: Enter your postal/zip code.
-- **Select food items and drinks from the dropdown menus.
-- **Add a description for the food item if needed.
-- **Enter the quantity of each item.
-- **Click the "Add Order Item" button to add items to your order.
-- **Once you've added all desired items, click the "Submit Order" button.
-- **The application will validate your inputs, save the order details to a .txt file on your desktop, and display a success message.
-- **You can also click the "Select Location on Map" button to open the delivery address in Google Maps.
+- **After running the application, **the main window will appear.
+- **Fill in the required fields:**
+- **Membership Code:** Enter your membership code (optional).
+- **Customer Name:** Enter your full name.
+- **Phone Number:** Enter an 11-digit phone number.
+- **Address:** Enter your delivery address.
+- **Zip Code:** Enter your postal/zip code.
+- **Select food items and drinks from the dropdown menus.**
+- **Add a description for the food item if needed.**
+- **Enter the quantity of each item.**
+- **Click the "Add Order Item" button to add items to your order.**
+- **Once you've added all desired items, click the "Submit Order" button.**
+- **The application will validate your inputs, save the order details to a .txt file on your desktop, and display a success message.**
+- **You can also click the "Select Location on Map" button to open the delivery address in Google Maps.**
 
 ---
 
@@ -69,23 +69,23 @@ README.md: This file!
 ## Input Validation
 The application performs the following validations:
 
-- **Phone Number: Must be exactly 11 digits.
-- **Quantity: Must be a positive integer.
-- **Required Fields: All fields (name, phone, address, zip code) must be filled out before submitting the order.
-- **At Least One Order Item: Users must add at least one item to their order before submission.
+- **Phone Number:** Must be exactly 11 digits.
+- **Quantity:** Must be a positive integer.
+- **Required Fields: All fields (name, phone, address, zip code) must be filled out before submitting the order.**
+- **At Least One Order Item: Users must add at least one item to their order before submission.**
 ---
 
 ### Saving Orders
 
 When the user submits an order, the application saves the order details to a .txt file on the user's desktop. The file includes the following information:
 
-- **Membership Code
-- **Customer Name
-- **Phone Number
-- **Address
-- **Zip Code
-- **Order Time
-- **Ordered Items (with descriptions and quantities)
+- **Membership Code**
+- **Customer Name**
+- **Phone Number**
+- **Address**
+- **Zip Code**
+- **Order Time**
+- **Ordered Items (with descriptions and quantities)**
 
 Example of the saved .txt file:
  ```bash
@@ -104,6 +104,6 @@ Burger (Cheeseburger) + Water x1
 ## Contact
 If you have any questions or feedback, feel free to reach out:
 
-Email: ahanjm@gmail.com
-GitHub: @mohsenahanj
+- **Email: ahanjm@gmail.com**
+- **GitHub: @mohsenahanj**
 
